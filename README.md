@@ -1,1 +1,1 @@
-# language_development
+This is collection of scripts related to analyses of language data.
