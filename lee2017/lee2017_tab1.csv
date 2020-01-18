@@ -1,0 +1,13 @@
+researcher,behaviour,role,mean,sd
+present,happy,infant,0.52,0.34
+absent,happy,infant,0.5,0.51
+present,neutral,infant,0.82,0.29
+absent,neutral,infant,0.7,0.45
+present,distressed,infant,0.63,0.65
+absent,distressed,infant,0.48,0.4
+present,sensitive,mother,1.35,0.88
+absent,sensitive,mother,1.24,0.55
+present,neutral,mother,0.73,0.44
+absent,neutral,mother,0.78,0.78
+present,less sensitive,mother,0.13,0.16
+absent,less sensitive,mother,1.04,0.63
